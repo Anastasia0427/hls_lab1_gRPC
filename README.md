@@ -4,9 +4,11 @@
 ## Работа приложения:
 
 Запуск сервера
+
 <img width="712" height="236" alt="image" src="https://github.com/user-attachments/assets/387d08fe-92be-45b5-a02f-ff96a53a72fb" />
 
 Клиент (поздоровался)
+
 <img width="275" height="65" alt="image" src="https://github.com/user-attachments/assets/abcad1d5-849c-4f94-aae4-c9a2c657dfaa" />
 
 Логи сервера
